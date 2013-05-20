@@ -4,4 +4,7 @@
   <artifactId>jenkins</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>pom</packaging>
+  <modules>
+  	<module>jenkins-jira-notifier</module>
+  </modules>
 </project>
